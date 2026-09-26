@@ -1,0 +1,19 @@
+G1 mode=flat: nq=36, nv=35, nu=29
+Using cpu device
+Wrapping the env in a DummyVecEnv.
+Logging to logs\gait_v3_sanity
+Training flat walking for 2,048 requested timesteps.
+PPO completes whole 2048-step rollouts: 500,000 requests produce 501,760 steps.
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 107      |
+|    ep_rew_mean     | 231      |
+| time/              |          |
+|    fps             | 942      |
+|    iterations      | 1        |
+|    time_elapsed    | 2        |
+|    total_timesteps | 2048     |
+---------------------------------
+ 100% --------------------------- 2,048/2,048  [ 0:00:02 < 0:00:00 , 943 it/s ]
+Training finished at 2,048 steps. Saved: C:\Projects\SKF_Project\logs\gait_v3_sanity\sanity_policy.zip
+Logs: C:\Projects\SKF_Project\logs\gait_v3_sanity

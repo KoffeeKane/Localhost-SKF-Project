@@ -1,0 +1,24 @@
+{
+  "mode": "flat",
+  "policy": "MlpPolicy",
+  "from_scratch": true,
+  "requested_timesteps": 500000,
+  "seed": 42,
+  "ppo": {
+    "learning_rate": 0.0002,
+    "n_steps": 2048,
+    "batch_size": 64,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_range": 0.2,
+    "ent_coef": 0.001,
+    "target_kl": 0.02,
+    "device": "cpu"
+  },
+  "stable_baselines3": "2.9.0",
+  "model": "C:\\Projects\\SKF_Project\\g1_walk_ppo_v1.zip",
+  "environment_sha256": "d9ac498dcb50a4c5531a6d934dbb524361d1e54d18c4d48232e6c4b383d3017f",
+  "actual_timesteps": 501760,
+  "final_action_std_mean": 0.9030559062957764,
+  "completed": true
+}

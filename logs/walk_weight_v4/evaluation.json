@@ -1,0 +1,250 @@
+{
+  "mode": "flat",
+  "model": "C:\\Projects\\SKF_Project\\g1_walk_ppo_v4.zip",
+  "deterministic": true,
+  "episodes": [
+    {
+      "episode": 1,
+      "steps_survived": 461,
+      "max_x": 0.2334733402697565,
+      "final_x": 0.2267042673306814,
+      "max_height": 0.7919801822762826,
+      "fallen": true,
+      "truncated": false,
+      "forward_distance": 0.2267042673306814,
+      "max_forward_distance": 0.2334733402697565,
+      "final_upright": 0.44450643937999923,
+      "episode_reward": 1319.4892424414854,
+      "milestone_reached": false,
+      "valid_left_steps": 2,
+      "valid_right_steps": 1,
+      "alternating_step_pairs": 2,
+      "valid_step_events": [
+        {
+          "leg": "left",
+          "step": 153,
+          "advance": 0.21341771982100158
+        },
+        {
+          "leg": "right",
+          "step": 277,
+          "advance": 0.29813604624956486
+        },
+        {
+          "leg": "left",
+          "step": 415,
+          "advance": 0.1658290118915011
+        }
+      ],
+      "qualified_lift_events": [
+        {
+          "leg": "left",
+          "step": 110
+        },
+        {
+          "leg": "right",
+          "step": 230
+        },
+        {
+          "leg": "left",
+          "step": 361
+        }
+      ],
+      "alternating_foot_lift": true,
+      "real_unloading": {
+        "left": true,
+        "right": true
+      },
+      "max_left_foot_clearance": 0.10058248209297158,
+      "max_right_foot_clearance": 0.05057796709856711,
+      "max_left_foot_height": 0.09641613192275414,
+      "max_right_foot_height": 0.04979499897899097,
+      "average_stance_foot_slip": 0.026625952972732403,
+      "crouch_fraction": 0.0,
+      "mean_residual_saturation_percentage": 19.22357693170764,
+      "mean_reward_terms": {
+        "unload": 0.5422636020893583,
+        "lift": 1.0906936546812445,
+        "swing_forward": 0.6238064082821498,
+        "missed_lift": -0.001891799947121747,
+        "velocity": 0.039786382883536926,
+        "progress": 0.0004430976888644245,
+        "stable_stance": 0.18340653409275093,
+        "stance_slip": -0.011625111636619168,
+        "crouch": 0.0,
+        "stance_knee": -0.0023766854632239075,
+        "upright": 0.19491488439622356,
+        "torso": 0.29144389179228125,
+        "torso_pitch": -0.016751149293997628,
+        "imitation": 0.14164567646375364,
+        "lateral": -0.06337914816040709,
+        "effort": -0.08399992553381495,
+        "action_change": -0.0010717604011690346,
+        "fall": -0.0650759219088937
+      }
+    },
+    {
+      "episode": 2,
+      "steps_survived": 461,
+      "max_x": 0.2334733402697565,
+      "final_x": 0.2267042673306814,
+      "max_height": 0.7919801822762826,
+      "fallen": true,
+      "truncated": false,
+      "forward_distance": 0.2267042673306814,
+      "max_forward_distance": 0.2334733402697565,
+      "final_upright": 0.44450643937999923,
+      "episode_reward": 1319.4892424414854,
+      "milestone_reached": false,
+      "valid_left_steps": 2,
+      "valid_right_steps": 1,
+      "alternating_step_pairs": 2,
+      "valid_step_events": [
+        {
+          "leg": "left",
+          "step": 153,
+          "advance": 0.21341771982100158
+        },
+        {
+          "leg": "right",
+          "step": 277,
+          "advance": 0.29813604624956486
+        },
+        {
+          "leg": "left",
+          "step": 415,
+          "advance": 0.1658290118915011
+        }
+      ],
+      "qualified_lift_events": [
+        {
+          "leg": "left",
+          "step": 110
+        },
+        {
+          "leg": "right",
+          "step": 230
+        },
+        {
+          "leg": "left",
+          "step": 361
+        }
+      ],
+      "alternating_foot_lift": true,
+      "real_unloading": {
+        "left": true,
+        "right": true
+      },
+      "max_left_foot_clearance": 0.10058248209297158,
+      "max_right_foot_clearance": 0.05057796709856711,
+      "max_left_foot_height": 0.09641613192275414,
+      "max_right_foot_height": 0.04979499897899097,
+      "average_stance_foot_slip": 0.026625952972732403,
+      "crouch_fraction": 0.0,
+      "mean_residual_saturation_percentage": 19.22357693170764,
+      "mean_reward_terms": {
+        "unload": 0.5422636020893583,
+        "lift": 1.0906936546812445,
+        "swing_forward": 0.6238064082821498,
+        "missed_lift": -0.001891799947121747,
+        "velocity": 0.039786382883536926,
+        "progress": 0.0004430976888644245,
+        "stable_stance": 0.18340653409275093,
+        "stance_slip": -0.011625111636619168,
+        "crouch": 0.0,
+        "stance_knee": -0.0023766854632239075,
+        "upright": 0.19491488439622356,
+        "torso": 0.29144389179228125,
+        "torso_pitch": -0.016751149293997628,
+        "imitation": 0.14164567646375364,
+        "lateral": -0.06337914816040709,
+        "effort": -0.08399992553381495,
+        "action_change": -0.0010717604011690346,
+        "fall": -0.0650759219088937
+      }
+    },
+    {
+      "episode": 3,
+      "steps_survived": 461,
+      "max_x": 0.2334733402697565,
+      "final_x": 0.2267042673306814,
+      "max_height": 0.7919801822762826,
+      "fallen": true,
+      "truncated": false,
+      "forward_distance": 0.2267042673306814,
+      "max_forward_distance": 0.2334733402697565,
+      "final_upright": 0.44450643937999923,
+      "episode_reward": 1319.4892424414854,
+      "milestone_reached": false,
+      "valid_left_steps": 2,
+      "valid_right_steps": 1,
+      "alternating_step_pairs": 2,
+      "valid_step_events": [
+        {
+          "leg": "left",
+          "step": 153,
+          "advance": 0.21341771982100158
+        },
+        {
+          "leg": "right",
+          "step": 277,
+          "advance": 0.29813604624956486
+        },
+        {
+          "leg": "left",
+          "step": 415,
+          "advance": 0.1658290118915011
+        }
+      ],
+      "qualified_lift_events": [
+        {
+          "leg": "left",
+          "step": 110
+        },
+        {
+          "leg": "right",
+          "step": 230
+        },
+        {
+          "leg": "left",
+          "step": 361
+        }
+      ],
+      "alternating_foot_lift": true,
+      "real_unloading": {
+        "left": true,
+        "right": true
+      },
+      "max_left_foot_clearance": 0.10058248209297158,
+      "max_right_foot_clearance": 0.05057796709856711,
+      "max_left_foot_height": 0.09641613192275414,
+      "max_right_foot_height": 0.04979499897899097,
+      "average_stance_foot_slip": 0.026625952972732403,
+      "crouch_fraction": 0.0,
+      "mean_residual_saturation_percentage": 19.22357693170764,
+      "mean_reward_terms": {
+        "unload": 0.5422636020893583,
+        "lift": 1.0906936546812445,
+        "swing_forward": 0.6238064082821498,
+        "missed_lift": -0.001891799947121747,
+        "velocity": 0.039786382883536926,
+        "progress": 0.0004430976888644245,
+        "stable_stance": 0.18340653409275093,
+        "stance_slip": -0.011625111636619168,
+        "crouch": 0.0,
+        "stance_knee": -0.0023766854632239075,
+        "upright": 0.19491488439622356,
+        "torso": 0.29144389179228125,
+        "torso_pitch": -0.016751149293997628,
+        "imitation": 0.14164567646375364,
+        "lateral": -0.06337914816040709,
+        "effort": -0.08399992553381495,
+        "action_change": -0.0010717604011690346,
+        "fall": -0.0650759219088937
+      }
+    }
+  ],
+  "best_forward_distance": 0.2334733402697565,
+  "walking_milestone_reached": false,
+  "note": "Resets use the same initial pose; repeated deterministic episodes test repeatability, not robustness to perturbations."
+}

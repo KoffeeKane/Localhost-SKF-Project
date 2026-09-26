@@ -1,0 +1,52 @@
+{
+  "mode": "flat",
+  "model": "C:\\Projects\\SKF_Project\\g1_walk_ppo_v2.zip",
+  "deterministic": true,
+  "episodes": [
+    {
+      "episode": 1,
+      "steps_survived": 136,
+      "max_x": 0.1918449833695742,
+      "final_x": 0.16773418448607627,
+      "max_height": 0.793,
+      "fallen": true,
+      "truncated": false,
+      "forward_distance": 0.16773418448607627,
+      "max_forward_distance": 0.1918449833695742,
+      "final_upright": 0.43743780651428277,
+      "episode_reward": 197.15959216487857,
+      "milestone_reached": false
+    },
+    {
+      "episode": 2,
+      "steps_survived": 136,
+      "max_x": 0.1918449833695742,
+      "final_x": 0.16773418448607627,
+      "max_height": 0.793,
+      "fallen": true,
+      "truncated": false,
+      "forward_distance": 0.16773418448607627,
+      "max_forward_distance": 0.1918449833695742,
+      "final_upright": 0.43743780651428277,
+      "episode_reward": 197.15959216487857,
+      "milestone_reached": false
+    },
+    {
+      "episode": 3,
+      "steps_survived": 136,
+      "max_x": 0.1918449833695742,
+      "final_x": 0.16773418448607627,
+      "max_height": 0.793,
+      "fallen": true,
+      "truncated": false,
+      "forward_distance": 0.16773418448607627,
+      "max_forward_distance": 0.1918449833695742,
+      "final_upright": 0.43743780651428277,
+      "episode_reward": 197.15959216487857,
+      "milestone_reached": false
+    }
+  ],
+  "best_forward_distance": 0.1918449833695742,
+  "walking_milestone_reached": false,
+  "note": "Resets use the same initial pose; repeated deterministic episodes test repeatability, not robustness to perturbations."
+}

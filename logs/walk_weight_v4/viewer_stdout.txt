@@ -1,0 +1,20 @@
+G1 mode=flat: nq=36, nv=35, nu=29
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Model: C:\Projects\SKF_Project\g1_walk_ppo_v4.zip
+Mode: flat; deterministic=True
+Close the MuJoCo window to stop.
+Episode 1: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 2: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 3: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 4: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 5: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 6: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 7: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 8: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 9: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 10: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 11: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 12: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 13: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m
+Episode 14: steps=461, max x=0.233 m, final x=0.227 m, max height=0.792 m, fell=True; best forward distance=0.233 m

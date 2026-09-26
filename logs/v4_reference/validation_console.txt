@@ -1,0 +1,217 @@
+G1 mode=flat: nq=36, nv=35, nu=29
+{
+  "passed": true,
+  "environment_hashes": {
+    "g1_stair_env.py": "bd31898390e6b431da1ef61b559bda3e293a6ecf4ee9011c7c8b425e987b8ff4",
+    "g1_gait_env_v3.py": "7a394b1e2267c6868ccad9118baca874df77a11eca65cf45df9c47be19d20d2a",
+    "g1_pd_env_v2.py": "109ce9d78f52d854d7111842b2e20312927a46cd89105f57c85623838e831d4b",
+    "gait_metrics.py": "4981f98d626edabf5c47d5e73e2c1a57ea52872393f28a53590b9d09de49154b"
+  },
+  "episodes": [
+    {
+      "valid_left_steps": 1,
+      "valid_right_steps": 1,
+      "alternating_step_pairs": 1,
+      "valid_step_events": [
+        {
+          "leg": "left",
+          "step": 159,
+          "advance": 0.1363134357534084
+        },
+        {
+          "leg": "right",
+          "step": 280,
+          "advance": 0.18475779922721666
+        }
+      ],
+      "qualified_lift_events": [
+        {
+          "leg": "left",
+          "step": 122
+        },
+        {
+          "leg": "right",
+          "step": 242
+        },
+        {
+          "leg": "left",
+          "step": 385
+        }
+      ],
+      "alternating_foot_lift": true,
+      "real_unloading": {
+        "left": true,
+        "right": true
+      },
+      "max_left_foot_clearance": 0.06488330151130742,
+      "max_right_foot_clearance": 0.038987192289078716,
+      "max_left_foot_height": 0.06422538328678595,
+      "max_right_foot_height": 0.03825075378664262,
+      "average_stance_foot_slip": 0.014078383241286343,
+      "crouch_fraction": 0.0,
+      "mean_residual_saturation_percentage": 0.0,
+      "mean_reward_terms": {
+        "unload": 0.48853044385365674,
+        "lift": 0.8428552047483222,
+        "swing_forward": 0.35216716304193824,
+        "missed_lift": -0.0645820699370849,
+        "velocity": 0.030747523486230333,
+        "progress": 0.0003503705523886152,
+        "stable_stance": 0.18043157448355948,
+        "stance_slip": -0.004631589597369321,
+        "crouch": 0.0,
+        "stance_knee": -0.0015324113819707701,
+        "upright": 0.19636665133391176,
+        "torso": 0.29435771803798405,
+        "torso_pitch": -0.005846277242335438,
+        "imitation": 0.14334533101377625,
+        "lateral": -0.0600264074671188,
+        "effort": -0.07138694620987437,
+        "action_change": 0.0,
+        "fall": -0.06622516556291391
+      },
+      "episode": 1,
+      "steps": 453,
+      "max_x": 0.21908099686363758,
+      "final_x": 0.21908099686363758,
+      "fallen": true
+    },
+    {
+      "valid_left_steps": 1,
+      "valid_right_steps": 1,
+      "alternating_step_pairs": 1,
+      "valid_step_events": [
+        {
+          "leg": "left",
+          "step": 159,
+          "advance": 0.1363134357534084
+        },
+        {
+          "leg": "right",
+          "step": 280,
+          "advance": 0.18475779922721666
+        }
+      ],
+      "qualified_lift_events": [
+        {
+          "leg": "left",
+          "step": 122
+        },
+        {
+          "leg": "right",
+          "step": 242
+        },
+        {
+          "leg": "left",
+          "step": 385
+        }
+      ],
+      "alternating_foot_lift": true,
+      "real_unloading": {
+        "left": true,
+        "right": true
+      },
+      "max_left_foot_clearance": 0.06488330151130742,
+      "max_right_foot_clearance": 0.038987192289078716,
+      "max_left_foot_height": 0.06422538328678595,
+      "max_right_foot_height": 0.03825075378664262,
+      "average_stance_foot_slip": 0.014078383241286343,
+      "crouch_fraction": 0.0,
+      "mean_residual_saturation_percentage": 0.0,
+      "mean_reward_terms": {
+        "unload": 0.48853044385365674,
+        "lift": 0.8428552047483222,
+        "swing_forward": 0.35216716304193824,
+        "missed_lift": -0.0645820699370849,
+        "velocity": 0.030747523486230333,
+        "progress": 0.0003503705523886152,
+        "stable_stance": 0.18043157448355948,
+        "stance_slip": -0.004631589597369321,
+        "crouch": 0.0,
+        "stance_knee": -0.0015324113819707701,
+        "upright": 0.19636665133391176,
+        "torso": 0.29435771803798405,
+        "torso_pitch": -0.005846277242335438,
+        "imitation": 0.14334533101377625,
+        "lateral": -0.0600264074671188,
+        "effort": -0.07138694620987437,
+        "action_change": 0.0,
+        "fall": -0.06622516556291391
+      },
+      "episode": 2,
+      "steps": 453,
+      "max_x": 0.21908099686363758,
+      "final_x": 0.21908099686363758,
+      "fallen": true
+    },
+    {
+      "valid_left_steps": 1,
+      "valid_right_steps": 1,
+      "alternating_step_pairs": 1,
+      "valid_step_events": [
+        {
+          "leg": "left",
+          "step": 159,
+          "advance": 0.1363134357534084
+        },
+        {
+          "leg": "right",
+          "step": 280,
+          "advance": 0.18475779922721666
+        }
+      ],
+      "qualified_lift_events": [
+        {
+          "leg": "left",
+          "step": 122
+        },
+        {
+          "leg": "right",
+          "step": 242
+        },
+        {
+          "leg": "left",
+          "step": 385
+        }
+      ],
+      "alternating_foot_lift": true,
+      "real_unloading": {
+        "left": true,
+        "right": true
+      },
+      "max_left_foot_clearance": 0.06488330151130742,
+      "max_right_foot_clearance": 0.038987192289078716,
+      "max_left_foot_height": 0.06422538328678595,
+      "max_right_foot_height": 0.03825075378664262,
+      "average_stance_foot_slip": 0.014078383241286343,
+      "crouch_fraction": 0.0,
+      "mean_residual_saturation_percentage": 0.0,
+      "mean_reward_terms": {
+        "unload": 0.48853044385365674,
+        "lift": 0.8428552047483222,
+        "swing_forward": 0.35216716304193824,
+        "missed_lift": -0.0645820699370849,
+        "velocity": 0.030747523486230333,
+        "progress": 0.0003503705523886152,
+        "stable_stance": 0.18043157448355948,
+        "stance_slip": -0.004631589597369321,
+        "crouch": 0.0,
+        "stance_knee": -0.0015324113819707701,
+        "upright": 0.19636665133391176,
+        "torso": 0.29435771803798405,
+        "torso_pitch": -0.005846277242335438,
+        "imitation": 0.14334533101377625,
+        "lateral": -0.0600264074671188,
+        "effort": -0.07138694620987437,
+        "action_change": 0.0,
+        "fall": -0.06622516556291391
+      },
+      "episode": 3,
+      "steps": 453,
+      "max_x": 0.21908099686363758,
+      "final_x": 0.21908099686363758,
+      "fallen": true
+    }
+  ],
+  "gate": "At least one valid left and right step and an alternating pair, with measured unloading; zero residual."
+}

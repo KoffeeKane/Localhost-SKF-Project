@@ -1,0 +1,54 @@
+G1 mode=flat: nq=36, nv=35, nu=29
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Model: C:\Projects\SKF_Project\g1_walk_ppo_v2.zip
+Mode: flat; deterministic=True
+Close the MuJoCo window to stop.
+Episode 1: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 2: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 3: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 4: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 5: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 6: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 7: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 8: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 9: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 10: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 11: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 12: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 13: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 14: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 15: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 16: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 17: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 18: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 19: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 20: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 21: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 22: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 23: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 24: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 25: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 26: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 27: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 28: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 29: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 30: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 31: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 32: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 33: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 34: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 35: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 36: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 37: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 38: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 39: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 40: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 41: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 42: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 43: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 44: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 45: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 46: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 47: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
+Episode 48: steps=136, max x=0.192 m, final x=0.168 m, max height=0.793 m, fell=True; best forward distance=0.192 m
